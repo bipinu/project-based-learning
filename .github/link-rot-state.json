@@ -16,7 +16,7 @@
     "redirect_to": null
   },
   "https|arjunsreedharan.org|/post/148675821737/memory-allocators-101-write-a-simple-memory|": {
-    "consecutive_failures": 12,
+    "consecutive_failures": 13,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -416,7 +416,7 @@
     "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 12,
+    "consecutive_failures": 13,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -912,7 +912,7 @@
     "redirect_to": null
   },
   "https|hackclub.com|/workshops|": {
-    "consecutive_failures": 12,
+    "consecutive_failures": 13,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -936,11 +936,11 @@
     "redirect_to": null
   },
   "https|hackernoon.com|/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-09-14",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": null,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|hackernoon.com|/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b|": {
@@ -984,7 +984,7 @@
     "redirect_to": null
   },
   "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
-    "consecutive_failures": 12,
+    "consecutive_failures": 13,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -1104,7 +1104,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 12,
+    "consecutive_failures": 13,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1261,7 +1261,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c21429c3990a7af2e61b90fae9"
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c51629c39d0b7af2e01490f8ec"
   },
   "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
     "consecutive_failures": 0,
@@ -1372,7 +1372,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": null,
+    "last_status": 403,
     "redirect_to": null
   },
   "https|medium.com|/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-3-invitation-c982dca55eb9|": {
@@ -1420,7 +1420,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": null,
+    "last_status": 403,
     "redirect_to": null
   },
   "https|medium.com|/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e|": {
@@ -1436,7 +1436,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": null,
+    "last_status": 403,
     "redirect_to": null
   },
   "https|medium.com|/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664|": {
@@ -1532,7 +1532,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": null,
+    "last_status": 403,
     "redirect_to": null
   },
   "https|medium.com|/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122|": {
@@ -1891,8 +1891,8 @@
     "consecutive_failures": 1,
     "first_failed": "2026-09-14",
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": null,
+    "last_class": "BLOCKED",
+    "last_status": 403,
     "redirect_to": null
   },
   "https|realpython.com|/blog/python/web-scraping-with-scrapy-and-mongodb|": {
@@ -2088,7 +2088,7 @@
     "redirect_to": null
   },
   "https|thinkster.io|/django-angularjs-tutorial|": {
-    "consecutive_failures": 12,
+    "consecutive_failures": 13,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3245,7 +3245,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": null
+    "redirect_to": "https://3zanders.co.uk/2017/10/13/writing-a-bootloader/"
   },
   "http|adit.io|/posts/2013-04-15-making-a-website-with-haskell.html|": {
     "consecutive_failures": 0,
@@ -3256,7 +3256,7 @@
     "redirect_to": "https://www.adit.io/posts/2013-04-15-making-a-website-with-haskell.html"
   },
   "http|arjunsreedharan.org|/post/82710718100/kernel-101-lets-write-a-kernel|": {
-    "consecutive_failures": 12,
+    "consecutive_failures": 13,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3424,7 +3424,7 @@
     "redirect_to": null
   },
   "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
-    "consecutive_failures": 12,
+    "consecutive_failures": 13,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3456,7 +3456,7 @@
     "redirect_to": "https://shiny.posit.co/r/getstarted/"
   },
   "http|thinkster.io||": {
-    "consecutive_failures": 12,
+    "consecutive_failures": 13,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3523,8 +3523,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": null,
     "redirect_to": null
   },
   "http|www.discoversdk.com|/blog/angular-5-to-do-list-app-part-1|": {
